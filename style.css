@@ -1,0 +1,13 @@
+body {
+    background-image: url('Images/Background.jpg'); 
+    background-color: #f34949; /* Fallback color */
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif; /* Classic '90s font choices */
+}
+.center {
+    text-align: center;
+}
+.blink {
+    color: red;
+    font-weight: bold;
+}
